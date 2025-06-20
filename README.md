@@ -1,16 +1,26 @@
-## Hi there 👋
+# 👋 Hi, I'm José Fernandes
 
-<!--
-**SirKnightTheBrave/SirKnightTheBrave** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Junior Software Developer with a passion for crafting clean, efficient code and learning new technologies. I recently completed a Software Development course at Cesae Digital - Centro para o Desenvolvimento de Competências Digitais, and I'm eager to jump into new projects and grow as a developer.
 
-Here are some ideas to get you started:
+## 💻 Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Languages:** C#, Kotlin, PHP (Laravel), JavaScript, HTML, CSS
+- **Frameworks:** Laravel, ASP.NET, Android (Kotlin)
+- **Tools:** Git, GitHub, VS Code, IntelliJ IDEA
+
+## 🚀 Projects
+
+*Coming soon! I'm currently working on building my project portfolio. Stay tuned!*
+
+## 🎲 Interests
+
+- Gaming (video games, tabletop, and roleplaying games)
+- Exploring forest trails and walking by the beach
+
+## 📫 Let's Connect
+
+- [LinkedIn](https://www.linkedin.com/in/jmrgfernandes/)
+
+---
+
+> “We can only see a short distance ahead, but we can see plenty there that needs to be done.” – Alan Turing
